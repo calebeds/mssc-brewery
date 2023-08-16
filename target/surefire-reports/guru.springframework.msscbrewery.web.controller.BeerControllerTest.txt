@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: guru.springframework.msscbrewery.web.controller.BeerControllerTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 2.703 s <<< FAILURE! - in guru.springframework.msscbrewery.web.controller.BeerControllerTest
+handleUpdate(guru.springframework.msscbrewery.web.controller.BeerControllerTest)  Time elapsed: 0.228 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<204> but was:<400>
+	at guru.springframework.msscbrewery.web.controller.BeerControllerTest.handleUpdate(BeerControllerTest.java:89)
+
