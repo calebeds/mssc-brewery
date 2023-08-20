@@ -5,6 +5,7 @@
 /home/stefanini/Workspaces/java-workspace/mssc-brewery/src/main/java/guru/springframework/msscbrewery/web/model/CustomerDto.java
 /home/stefanini/Workspaces/java-workspace/mssc-brewery/src/main/java/guru/springframework/msscbrewery/domain/Beer.java
 /home/stefanini/Workspaces/java-workspace/mssc-brewery/src/main/java/guru/springframework/msscbrewery/web/controller/CustomerController.java
+/home/stefanini/Workspaces/java-workspace/mssc-brewery/src/main/java/guru/springframework/msscbrewery/web/controller/MvcExceptionHandler.java
 /home/stefanini/Workspaces/java-workspace/mssc-brewery/src/main/java/guru/springframework/msscbrewery/services/v2/BeerServiceV2Impl.java
 /home/stefanini/Workspaces/java-workspace/mssc-brewery/src/main/java/guru/springframework/msscbrewery/bootstrap/BeerLoader.java
 /home/stefanini/Workspaces/java-workspace/mssc-brewery/src/main/java/guru/springframework/msscbrewery/MsscBreweryApplication.java
