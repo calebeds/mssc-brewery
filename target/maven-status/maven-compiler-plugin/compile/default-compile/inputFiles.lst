@@ -1,7 +1,9 @@
+/home/stefanini/Workspaces/java-workspace/mssc-brewery/src/main/java/guru/springframework/msscbrewery/web/mappers/CustomerMapper.java
 /home/stefanini/Workspaces/java-workspace/mssc-brewery/src/main/java/guru/springframework/msscbrewery/web/model/v2/BeerStyleEnum.java
 /home/stefanini/Workspaces/java-workspace/mssc-brewery/src/main/java/guru/springframework/msscbrewery/web/model/v2/BeerDtoV2.java
 /home/stefanini/Workspaces/java-workspace/mssc-brewery/src/main/java/guru/springframework/msscbrewery/services/v2/BeerServiceV2.java
 /home/stefanini/Workspaces/java-workspace/mssc-brewery/src/main/java/guru/springframework/msscbrewery/web/mappers/BeerMapper.java
+/home/stefanini/Workspaces/java-workspace/mssc-brewery/src/main/java/guru/springframework/msscbrewery/domain/Customer.java
 /home/stefanini/Workspaces/java-workspace/mssc-brewery/src/main/java/guru/springframework/msscbrewery/web/model/CustomerDto.java
 /home/stefanini/Workspaces/java-workspace/mssc-brewery/src/main/java/guru/springframework/msscbrewery/domain/Beer.java
 /home/stefanini/Workspaces/java-workspace/mssc-brewery/src/main/java/guru/springframework/msscbrewery/web/controller/CustomerController.java
